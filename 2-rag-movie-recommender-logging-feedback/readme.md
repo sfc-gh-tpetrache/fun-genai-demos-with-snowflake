@@ -11,6 +11,7 @@
 ![alt text](image-3.png)
 
 4. Add the <code>snowflake.core</code> package
+
 ![alt text](image-4.png)
 
 5. Run All cells
