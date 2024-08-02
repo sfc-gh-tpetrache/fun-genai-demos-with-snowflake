@@ -18,7 +18,7 @@
 
 ## ⭐ Customers Say with an Olympic Games commentator tone - Serverless Fine tuning and Scoring (evaluation with Rouge Score)
 
-- *Description*: Generating summaries with an Olym. It is part of Amazon's strategy to maintain a customer-centric approach by building trust and driving continuous improvement based on real user feedback.
+- *Description*: Generating summaries with an Olympics twist. It is part of Amazon's strategy to maintain a customer-centric approach by building trust and driving continuous improvement based on real user feedback.
 - *Business Value*: "Customers Say" feature is a crucial component of Amazon's strategy to maintain a customer-centric approach, build trust, and drive continuous improvement based on real user feedback.
 - *Key Features*: LLM-generated summaries and insights into product quality and entertainment value.
 - *Why Snowflake*: Serverless Fine-tuning (efficient, easy), secure and reliable environment for storing and processing product review data (trusted), Model Registry integration (model versioning and management), generated summary evaluation (rouge score, Anaconda Snowflake channel)
