@@ -9,6 +9,7 @@
 ![alt text](image-4.png)
 
 4. Create Notebook -> Import <code>3-fine-tuning-customer-says-tone-olympics/Amazon Products Fine Tuning with an Olympics Twist.ipynb</code> file
+
 ![alt text](image-1.png)
 
 5. Add the <code>rouge-score</code> package
